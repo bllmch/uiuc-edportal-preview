@@ -1,10 +1,10 @@
-# Introduction to AWS at the Unniversity of Illinois Urbana Champagne.
+# Introduction to AWS at the University of Illinois Urbana Champagne.
 
-Welcome to the Unniversity of Illinois Urbana Champagne AWS Cloud Education Portal. The Unniversity has partnered with AWS as our primary Cloud Provider as part of our Cloud First Strategy. ome of the most exciting and rewarding career opportunities at the Unniversity are going to be in the AWS Cloud. In light of this partnership, This AWS Education portal has been made to make it easy to find information on how to build and develop skills in AWS. This portal will provide easy to find links to everything from general cloud knowledge to pursuing AWS Certifications.
+Welcome to the University of Illinois Urbana Champagne AWS Cloud Education Portal. The University has partnered with AWS as our primary Cloud Provider as part of our Cloud First Strategy. ome of the most exciting and rewarding career opportunities at the University are going to be in the AWS Cloud. In light of this partnership, This AWS Education portal has been made to make it easy to find information on how to build and develop skills in AWS. This portal will provide easy to find links to everything from general cloud knowledge to pursuing AWS Certifications.
 
-- [Introduction to AWS at the Unniversity of Illinois Urbana Champagne.](#introduction-to-aws-at-the-unniversity-of-illinois-urbana-champagne)
-- [Why going to the Cloud is important to the Unniversity of Illinois](#why-going-to-the-cloud-is-important-to-the-unniversity-of-illinois)
-  - [How does the Cloud and our partnership with AWS benefit the Unniversity?](#how-does-the-cloud-and-our-partnership-with-aws-benefit-the-unniversity)
+- [Introduction to AWS at the University of Illinois Urbana Champagne.](#introduction-to-aws-at-the-university-of-illinois-urbana-champagne)
+- [Why going to the Cloud is important to the University of Illinois](#why-going-to-the-cloud-is-important-to-the-university-of-illinois)
+  - [How does the Cloud and our partnership with AWS benefit the university?](#how-does-the-cloud-and-our-partnership-with-aws-benefit-the-university)
     - [Agility:](#agility)
     - [Elasticity:](#elasticity)
     - [Innovation:](#innovation)
@@ -35,17 +35,17 @@ Welcome to the Unniversity of Illinois Urbana Champagne AWS Cloud Education Port
     - [Billing and Cost Management](#billing-and-cost-management)
 
 
-# Why going to the Cloud is important to the Unniversity of Illinois
+# Why going to the Cloud is important to the University of Illinois
 
 The first thing that should be defined is "What is the Cloud?". When cloud is discussed it is often misunderstood in not only what it is, but why it's advantagious for organizations like the University of Illinois to make full use of. The term Cloud, our cloud computing refers to the on demand delivery of IT resources via the Internet with a pay-as-you-go pricing model. Instead of buying, owning, and maintaining equipment in a datacenter, the University can consume technology resources such as compute, storage, database, and many other services on an as needed basis. It is similar to how people at home consume electricity. When a person turns on a light switch, the power company sends electricity. With Cloud Computing AWS manages and maintains the physical technology infrastructure in many secure environments across the globe. Businesses are then able to access the resources over the internet to develop and run their applications. Capacity can grow or shrink instantly and the University only pays for what it uses.
 
-## How does the Cloud and our partnership with AWS benefit the Unniversity?
+## How does the Cloud and our partnership with AWS benefit the university?
 
-Now that we've covered what the Cloud is, we should look at how it benefits the Unniversity. There are five main areas: Agility, Elasticity, Innovation, Scale, and Cost Savings. Each of these will be discussed below. Furthermore, our partnership entitles us to designated AWS Technical Personel. Ryan Kolak is an AWS Solutions Architect that is designated to the Unniversity and Chris Bell is a Technical Account Manager
+Now that we've covered what the Cloud is, we should look at how it benefits the university. There are five main areas: Agility, Elasticity, Innovation, Scale, and Cost Savings. Each of these will be discussed below. Furthermore, our partnership entitles us to designated AWS Technical Personel. Ryan Kolak is an AWS Solutions Architect that is designated to the university and Chris Bell is a Technical Account Manager
 
 ### Agility:
 
-AWS lets the Unniversity to quickly spin up resources as they need them. We can deploy hundreds of servers in minutes. This means that we can roll out new applications, experiment, and innovate more quickly and efficiently. If an experiment or application does not work as initially planned or intended we can just as quickly deprovision those resources. This means that if an experiment fails it can be deprovisioned quickly and without risk.
+AWS lets the University to quickly spin up resources as they need them. We can deploy hundreds of servers in minutes. This means that we can roll out new applications, experiment, and innovate more quickly and efficiently. If an experiment or application does not work as initially planned or intended we can just as quickly deprovision those resources. This means that if an experiment fails it can be deprovisioned quickly and without risk.
 
 ### Elasticity:
 
@@ -58,7 +58,7 @@ AWS allows us to innovate faster because we can allow our highly valuable IT sta
 AWS has a vast array of services that are available on demand. These include everything from large, high capacity compute servers to very small sererless functions. This means that AWS likely has a services that will meet the exact demands of our applications whether they be large, small, or fluctuate between them.
 
 ### Cost Savings
-AWS allows us to trade capitol expense for variable expense and only pay for IT infrastructure as we consume it. Only paying for the resources that we need and when we need them is a significant savings opportunity for the Unniversity. Our Partnership with AWS entitles us to a further discount.
+AWS allows us to trade capitol expense for variable expense and only pay for IT infrastructure as we consume it. Only paying for the resources that we need and when we need them is a significant savings opportunity for the University. Our Partnership with AWS entitles us to a further discount.
 
 # How to learn AWS
 
